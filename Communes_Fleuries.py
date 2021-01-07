@@ -1,4 +1,5 @@
 import folium
+import branca
 
 
 communes_geo = "communes-ile-de-france - Copy2.geojson"
@@ -7,17 +8,22 @@ communes_geo = "communes-ile-de-france - Copy2.geojson"
 m = folium.Map(
     location=[48.7, 2.3],
     zoom_start=9,
-    zoom_control=False,
     tiles=None,
 )
 
 folium.TileLayer("CartoDB positron", name="Light Map", control=False).add_to(m)
 
-colormap = ["#edf8e9", "#bae4b3", "#74c476", "#31a354", "#006d2c"]
+colorlist = ["#edf8fb", "#fe9929", "#41b6c4", "#9e9ac8", "#006d2c"]
+colormap = branca.colormap.StepColormap(
+    colorlist, index=[0, 1, 2, 3, 4], vmin=0, vmax=4
+)
 
 # interactivity
 style_function = lambda x: {
-    "fillColor": colormap[x["properties"]["fleurs"]],
+    # "fillColor": colormap[x["properties"]["fleurs"]],
+    "fillColor": colormap(
+        x["properties"]["fleurs"] + 0.1
+    ),  # +0.1 pour gérer l'index de colormap
     "color": "#000000",
     "fillOpacity": 0.5,
     "weight": 0.1,
@@ -31,7 +37,6 @@ highlight_function = lambda x: {
 NIL = folium.features.GeoJson(
     communes_geo,
     style_function=style_function,
-    control=False,
     highlight_function=highlight_function,
     tooltip=folium.features.GeoJsonTooltip(
         fields=["nom", "code", "fleurs"],
@@ -45,6 +50,6 @@ NIL = folium.features.GeoJson(
 m.add_child(NIL)
 m.keep_in_front(NIL)
 #
-
+colormap.add_to(m)
 folium.LayerControl().add_to(m)
 m.save("map.html")
