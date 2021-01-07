@@ -1,4 +1,5 @@
 import json
+import itertools
 
 with open(
     "communes-dile-de-france-labellisees-villes-et-villages-fleuris-2020 - Copy.json",
@@ -15,6 +16,10 @@ with open(
 
 
 for feature_2 in data_2["features"]:
+    feature_2["properties"]["fleurs"] = 0
+
+
+for feature_2 in data_2["features"]:
     for feature in data["features"]:
         if (
             feature_2["properties"]["nom"]
@@ -22,10 +27,7 @@ for feature_2 in data_2["features"]:
         ):
             feature_2["properties"]["fleurs"] = feature["properties"]["fleurs"]
 
-# for feature_2 in data_2["features"]:
-#     print(feature_2["properties"])
-# for feature in data["features"]:
-#     print(feature["properties"]["commune_officielle"], feature["properties"]["fleurs"])
+
 with open(
     "communes-ile-de-france - Copy2.geojson", "w"
 ) as f:  # rb pour gérer les caractères à accents
