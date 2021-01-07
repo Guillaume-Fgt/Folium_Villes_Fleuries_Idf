@@ -13,9 +13,13 @@ m = folium.Map(
 
 folium.TileLayer("CartoDB positron", name="Light Map", control=False).add_to(m)
 
-colorlist = ["#edf8fb", "#fe9929", "#41b6c4", "#9e9ac8", "#006d2c"]
+colorlist = ["#f6eff7", "#bdc9e1", "#67a9cf", "#1c9099", "#016c59"]
 colormap = branca.colormap.StepColormap(
-    colorlist, index=[0, 1, 2, 3, 4], vmin=0, vmax=4
+    colorlist,
+    index=[0, 1, 2, 3, 4],
+    vmin=0,
+    vmax=4,
+    caption="Nbr de fleurs de la commune",
 )
 
 # interactivity
