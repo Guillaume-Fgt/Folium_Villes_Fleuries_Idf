@@ -50,6 +50,7 @@ NIL = folium.features.GeoJson(
         ),
         sticky=False,
     ),
+    name="Communes fleuries 2020 IDF",
 )
 m.add_child(NIL)
 m.keep_in_front(NIL)
