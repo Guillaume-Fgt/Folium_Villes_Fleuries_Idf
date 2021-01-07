@@ -1,0 +1,292 @@
+code_commune,commune_labellisee,nom,code_departement,departement,fleurs,geo_point,url,adresse_ligne3,adresse_ligne4,adresse_ligne5,adresses_codepostal,adresses_commune,
+77132,Coupvray,Coupvray,77,Seine-et-Marne,2,48.8917007446,2.79327011108,https://www.coupvray.fr/,,Place de la Mairie,,77700,Coupvray
+77174,Everly,Everly,77,Seine-et-Marne,1,48.4665985107,3.25203990936,http://everly.fr/,,16 rue de la Mairie,,77157,Everly
+77313,Montmachoux,Montmachoux,77,Seine-et-Marne,1,48.3195991516,2.99359202385,https://www.montmachoux.fr/,,5 rue de l'École,,77940,Montmachoux
+77320,Mouroux,Mouroux,77,Seine-et-Marne,2,48.8212013245,3.03804993629,https://www.ville-mouroux.fr/,,Place de la Mairie,,77120,Mouroux
+77373,Pontault-Combault,Pontault-Combault,77,Seine-et-Marne,2,48.8031355,2.6108069,http://www.pontault-combault.fr/,,107 avenue de la République,,77340,Pontault-Combault
+77449,Serris,Serris,77,Seine-et-Marne,3,48.84400177,2.78820991516,http://www.serris.fr/,,2 place Antoine-Mauny,BP 15,77700,Serris
+77479,Vaires-sur-Marne,Vaires-sur-Marne,77,Seine-et-Marne,3,48.8733520508,2.63991498947,http://www.vairessurmarne.com/,,26 boulevard de Lorraine,,77360,Vaires-sur-Marne
+77518,Villiers-en-Bière,Villiers-en-Bière,77,Seine-et-Marne,1,48.4940986633,2.59870004654,https://www.mairievilliersenbiere.fr/,,Place de la Mairie,,77190,Villiers-en-Bière
+78165,Les Clayes-sous-Bois,Les Clayes-sous-Bois,78,Yvelines,2,48.821312,1.986541,http://www.lesclayessousbois.fr,,Place Charles-de-Gaulle,,78340,Les Clayes-sous-Bois
+78498,Poissy,Poissy,78,Yvelines,3,48.927701,2.042802,http://www.ville-poissy.fr,,Place de la République,BP 6308,78303,Poissy Cedex
+91021,Arpajon,Arpajon,91,Essonne,3,48.5891648,2.2484735,http://www.arpajon91.fr,,70 Grande rue,,91290,Arpajon
+91097,Boussy-Saint-Antoine,Boussy-Saint-Antoine,91,Essonne,1,48.6889478,2.530224,http://www.ville-boussy.fr,,5 place des Droits-de-l'Homme,,91800,Boussy-Saint-Antoine
+91377,Massy,Massy,91,Essonne,3,48.7302017212,2.27223992348,http://www.ville-massy.fr,,1 avenue du Général-de-Gaulle,,91300,Massy
+91432,Morangis,Morangis,91,Essonne,2,48.7046877,2.3322869,http://www.morangis91.com,,12 avenue de la République,,91420,Morangis
+91649,Vert-le-Petit,Vert-le-Petit,91,Essonne,1,48.5508995056,2.3666100502,http://www.vertlepetit.fr,,4 rue du Général-Leclerc,BP 6,91710,Vert-le-Petit
+91691,Yerres,Yerres,91,Essonne,3,48.7167015076,2.48762011528,http://www.yerres.fr,,60 rue Charles-de-Gaulle,,91335,Yerres Cedex
+92012,Boulogne-Billancourt,Boulogne-Billancourt,92,Hauts-de-Seine,3,48.8359758,2.240282,http://www.boulognebillancourt.com,,26 avenue André-Morizet,,92104,Boulogne-Billancourt Cedex
+92025,Colombes,Colombes,92,Hauts-de-Seine,3,48.922676,2.2547662,http://www.colombes.fr,,Place de la République,,92701,Colombes Cedex
+92062,Puteaux,Puteaux,92,Hauts-de-Seine,4,48.8844636,2.2380969,http://www.puteaux.fr,,131 rue de la République,,92800,Puteaux
+92075,Vanves,Vanves,92,Hauts-de-Seine,3,48.8205251,2.2905065,http://www.vanves.fr,,33 rue Antoine Fratacci,CS 40001,92170,Vanves
+93008,Bobigny,Bobigny,93,Seine-Saint-Denis,2,48.906598,2.4447215,http://www.bobigny.fr,,31 avenue du Président-Salvador-Allende,BP 80004,93009,Bobigny Cedex
+93048,Montreuil,Montreuil,93,Seine-Saint-Denis,3,48.860395,2.441878,http://www.montreuil.fr,,,,,
+94001,Ablon-sur-Seine,Ablon-sur-Seine,94,Val-de-Marne,1,48.7251014709,2.42164993286,http://www.ablon-sur-seine.fr,,16 rue du Maréchal-Foch,,94480,Ablon-sur-Seine
+94069,Saint-Maurice,Saint-Maurice,94,Val-de-Marne,2,48.8183614,2.4228634,http://www.ville-saint-maurice.com,,55 rue du Maréchal-Leclerc,,94410,Saint-Maurice
+94077,Villeneuve-le-Roi,Villeneuve-le-Roi,94,Val-de-Marne,2,48.7350120544,2.40797591209,http://www.villeneuve-le-roi.fr,,Place de la Vieille-Église,,94290,Villeneuve-le-Roi
+95218,Éragny,Éragny,95,Val-d'Oise,3,49.02458,2.094985,http://www.eragny.fr,,Place Louis-Don-Marino,CS 70021,95610,Éragny-sur-Oise
+95306,Herblay-sur-Seine,Herblay-sur-Seine,95,Val-d'Oise,1,48.989964,2.165264,http://www.herblay.fr,,43 rue du Général-de-Gaulle,,95220,Herblay
+77063,La Celle-sur-Morin,La Celle-sur-Morin,77,Seine-et-Marne,3,48.806098938,2.96740007401,http://www.la-celle-sur-morin.fr/,,1 rue d'En-Bas,,77515,La Celle-sur-Morin
+77095,Charny,Charny,77,Seine-et-Marne,2,48.9710006714,2.76107001305,http://www.charny77.fr/,,1 rue de l'Église,,77410,Charny
+77122,Combs-la-Ville,Combs-la-Ville,77,Seine-et-Marne,2,48.66602,2.55769,https://www.combs-la-ville.fr/,Hôtel de Ville,Esplanade Charles-de-Gaulle,BP 116,77385,Combs-la-Ville Cedex
+77164,Échouboulains,Échouboulains,77,Seine-et-Marne,1,48.4637985229,2.94492006302,https://www.echouboulains77.com/,,3 place de la Résistance,,77830,Échouboulains
+77184,Flagy,Flagy,77,Seine-et-Marne,2,48.308254,2.9147532,,,Place de l'Église,,77940,Flagy
+77266,Machault,Machault,77,Seine-et-Marne,1,48.4552001953,2.82896995544,http://www.mairie-machault77.fr/,,24 rue des Trois-Maillets,,77133,Machault
+77315,Montry,Montry,77,Seine-et-Marne,1,48.8875007629,2.82838010788,https://www.mairie-montry.fr/,,25 avenue de la Mairie,,77450,Montry
+77333,Nemours,Nemours,77,Seine-et-Marne,1,48.2661094666,2.69414710999,https://www.nemours.fr/,,39 rue du Docteur-Chopy,CS 60410,77797,Nemours Cedex
+77482,Varennes-sur-Seine,Varennes-sur-Seine,77,Seine-et-Marne,3,48.376287,2.929185,https://varennes-sur-seine.fr/,,Place Jean-Séjourné,Grande rue,77130,Varennes-sur-Seine
+78043,Bailly,Bailly,78,Yvelines,2,48.8390927,2.0793698,http://www.mairie-bailly.fr,,1 rue des Chênes,,78870,Bailly
+78168,Coignières,Coignières,78,Yvelines,2,48.74719959,1.9178156,http://www.coignieres.fr,,Place de l'Église-Saint-Germain-d'Auxerre,,78310,Coignières
+78311,Houilles,Houilles,78,Yvelines,2,48.9232414,2.1869913,https://www.ville-houilles.fr,,16 rue Gambetta,CS 80330,78800,Houilles
+78324,Jouy-Mauvoisin,Jouy-Mauvoisin,78,Yvelines,2,48.9747009277,1.64907002449,http://www.jouy-mauvoisin.fr,,Place de la Mairie,,78200,Jouy-Mauvoisin
+78683,Villiers-Saint-Frédéric,Villiers-Saint-Frédéric,78,Yvelines,1,48.819761,1.891343,http://www.mairie-villiers-saint-frederic.fr,,2 rue Charles-de-Gaulle,,78640,Villiers-Saint-Frédéric
+91216,Épinay-sur-Orge,Épinay-sur-Orge,91,Essonne,2,48.6725006104,2.32416009903,http://www.ville-epinay-sur-orge.fr,,8 rue de l'Église,,91360,Épinay-sur-Orge
+91602,Souzy-la-Briche,Souzy-la-Briche,91,Essonne,2,48.5385017395,2.09110999107,http://www.souzylabriche.fraccueil,,4 chemin des Sources,,91580,Souzy-la-Briche
+92007,Bagneux,Bagneux,92,Hauts-de-Seine,3,48.798558,2.304355,http://www.bagneux92.fr,,57 avenue Henri-Ravera,,92220,Bagneux
+92040,Issy-les-Moulineaux,Issy-les-Moulineaux,92,Hauts-de-Seine,3,48.824206,2.2735875,http://www.issy.com,Centre Administratif Municipal,47 rue du Général-Leclerc,,92130,Issy-les-Moulineaux
+92073,Suresnes,Suresnes,92,Hauts-de-Seine,3,48.8712005615,2.22490000725,http://www.suresnes.fr,,2 rue Carnot,,92151,Suresnes Cedex
+94038,L'Haÿ-les-Roses,L'Haÿ-les-Roses,94,Val-de-Marne,1,48.778943,2.3380744,http://www.lhaylesroses.fr,,41 rue Jean-Jaurès,,94240,L'Haÿ-les-Roses
+94043,Le Kremlin-Bicêtre,Le Kremlin-Bicêtre,94,Val-de-Marne,2,48.8126564026,2.35664010048,http://www.kremlinbicetre.fr,,Place Jean-Jaurès,,94276,Le Kremlin-Bicêtre Cedex
+94060,La Queue-en-Brie,La Queue-en-Brie,94,Val-de-Marne,1,48.7886505,2.5359314,http://www.laqueueenbrie.fr,,Place du 18-Juin-1940,,94510,La Queue-en-Brie
+94075,Villecresnes,Villecresnes,94,Val-de-Marne,2,48.7218017578,2.53363990784,http://www.villecresnes.fr,,68 rue du Lieutenant-Dagorno,Place Charles-de-Gaulles,94440,Villecresnes
+95063,Bezons,Bezons,95,Val-d'Oise,1,48.9279333,2.2155708,http://www.ville-bezons.fr,,6 avenue Gabriel-Péri,CS 30122,95875,Bezons
+95252,Franconville,Franconville,95,Val-d'Oise,3,48.986415863,2.23122406006,http://www.ville-franconville.fr,,11 rue de la Station,BP 90043,95132,Franconville Cedex
+95277,Gonesse,Gonesse,95,Val-d'Oise,3,48.9863014221,2.44970989227,http://www.ville-gonesse.fr,,66 rue de Paris,BP 10060,95503,Gonesse Cedex
+95313,L'Isle-Adam,L'Isle-Adam,95,Val-d'Oise,3,49.1121292114,2.21789908409,http://www.ville-isle-adam.fr,,45 Grande rue,,95290,L'Isle-Adam
+95566,Saint-Martin-du-Tertre,Saint-Martin-du-Tertre,95,Val-d'Oise,1,49.1086106,2.348136,http://www.mairie-saintmartin95.fr,,Place Louis-Desenclos,,95270,Saint-Martin-du-Tertre
+95572,Saint-Ouen-l'Aumône,Saint-Ouen-l'Aumône,95,Val-d'Oise,2,49.0440975,2.1065808,http://www.ville-soa.fr,,2 place Pierre-Mendès-France,,95310,Saint-Ouen-l'Aumône
+95637,Vauréal,Vauréal,95,Val-d'Oise,3,49.029373,2.023163,http://www.vaureal.fr,,1 place du Coeur-Battant,CS 10039,95490,Vauréal
+78551,Fourqueux,Saint-Germain-en-Laye,78,Yvelines,2,48.8905982971,2.06248998642,http://www.ville-fourqueux.fr,,1 place de la Grille,Fourqueux,78100,Saint-Germain-en-Laye
+77257,Lizy-sur-Ourcq,Lizy-sur-Ourcq,77,Seine-et-Marne,2,48.9993208,3.004241,http://www.lizy-sur-ourcq.fr/,,Place de Verdun,,77440,Lizy-sur-Ourcq
+77288,Melun,Melun,77,Seine-et-Marne,4,48.5395011902,2.66082000732,https://www.ville-melun.fr/,,16 rue Paul-Doumer,,77000,Melun
+77291,Le Mesnil-Amelot,Le Mesnil-Amelot,77,Seine-et-Marne,2,49.0176010132,2.59098005295,https://www.lemesnilamelot.fr/,,2 rue du Chapeau,,77990,Le Mesnil-Amelot
+77296,Moissy-Cramayel,Moissy-Cramayel,77,Seine-et-Marne,3,48.6271476746,2.59441995621,https://www.moissy-cramayel.fr/,,6 place du Souvenir,BP 24,77557,Moissy-Cramayel Cedex
+77420,Saint-Mard,Saint-Mard,77,Seine-et-Marne,2,49.0371017456,2.69503998756,,,11 rue de la Mairie,,77230,Saint-Mard
+77475,Trilport,Trilport,77,Seine-et-Marne,2,48.9581985474,2.94719004631,http://www.trilport.fr/,,5 rue du Général-de-Gaulle,,77470,Trilport
+78092,Bougival,Bougival,78,Yvelines,1,48.8609008789,2.14005994797,http://www.ville-bougival.fr,,126 rue du Maréchal-Joffre,,78380,Bougival
+78297,Guyancourt,Guyancourt,78,Yvelines,1,48.7708702087,2.07096505165,http://www.ville-guyancourt.fr,,14 rue Ambroise-Croizat,BP 32,78041,Guyancourt Cedex
+78314,Issou,Issou,78,Yvelines,1,48.9878005981,1.79430997372,http://www.issou.fr,,Place Ferdinand-Famy,,78440,Issou
+78335,Limay,Limay,78,Yvelines,3,48.9920005798,1.7353399992,http://www.ville-limay.fr,,5 avenue du Président-Wilson,,78520,Limay
+78356,Magny-les-Hameaux,Magny-les-Hameaux,78,Yvelines,2,48.7246508,2.083532,http://www.magny-les-hameaux.fr,,1 place Pierre-Bérégovoy,BP10033,78114,Magny-les-Hameaux
+78361,Mantes-la-Jolie,Mantes-la-Jolie,78,Yvelines,3,48.989372,1.715374,http://www.manteslajolie.fr,,31 rue Gambetta,BP 1600,78200,Mantes-la-Jolie Cedex
+78586,Sartrouville,Sartrouville,78,Yvelines,3,48.9404983521,2.15848994255,http://www.sartrouville.fr,,2 rue Buffon,BP 275,78506,Sartrouville Cedex
+78646,Versailles,Versailles,78,Yvelines,4,48.80233,2.1298227,http://www.versailles.fr,,4 avenue de Paris,BP 1144,78011,Versailles Cedex
+91099,Boutigny-sur-Essonne,Boutigny-sur-Essonne,91,Essonne,3,48.437525,2.380754,http://www.boutignysuressonne.fr,,11 boulevard Maurice-Ouin,,91820,Boutigny-sur-Essonne
+91215,Épinay-sous-Sénart,Épinay-sous-Sénart,91,Essonne,1,48.6944007874,2.51242995262,http://www.ville-epinay-senart.fr,,8 rue Sainte-Geneviève,BP 79,91860,Épinay-sous-Sénart
+91226,Étréchy,Étréchy,91,Essonne,2,48.4936282,2.1903088,http://www.ville-etrechy.fr,,Place du Charles-de-Gaulle,,91580,Étréchy
+92048,Meudon,Meudon,92,Hauts-de-Seine,4,48.8125,2.23875403404,http://www.meudon.fr,,6 avenue Le-Corbeiller,,92190,Meudon
+93051,Noisy-le-Grand,Noisy-le-Grand,93,Seine-Saint-Denis,3,48.842915,2.546028,http://www.noisylegrand.fr,,Place de la Libération,,93161,Noisy-le-Grand
+93071,Sevran,Sevran,93,Seine-Saint-Denis,2,48.93997,2.52668,http://www.ville-sevran.fr,,28 avenue du Général-Leclerc,,93270,Sevran
+93072,Stains,Stains,93,Seine-Saint-Denis,3,48.9547805786,2.38270998001,http://www.stains.frindex.php,,6 avenue Paul-Vaillant-Couturier,BP 73,93240,Stains
+95019,Arnouville,Arnouville,95,Val-d'Oise,3,48.9896288,2.4202668,http://www.arnouville95.fr,,15-17 rue Robert-Schuman,CS 20101,95400,Arnouville
+95039,Auvers-sur-Oise,Auvers-sur-Oise,95,Val-d'Oise,1,49.0705986023,2.17128992081,http://www.ville-auverssuroise.fr,,Rue du Général-de-Gaulle,,95430,Auvers-sur-Oise
+95219,Ermont,Ermont,95,Val-d'Oise,3,48.9916222,2.2585406,http://www.ermont.fr,,100 rue Louis-Savoie,,95123,Ermont Cedex
+77146,Croissy-Beaubourg,Croissy-Beaubourg,77,Seine-et-Marne,3,48.8278007507,2.65959000587,https://croissy-beaubourg.fr/,,30 rue de Paris,,77183,Croissy-Beaubourg
+77171,Esbly,Esbly,77,Seine-et-Marne,1,48.9006996155,2.81315994263,https://esbly.org/,,7 rue Victor-Hugo,CS 90184,77450,Esbly
+77182,La Ferté-Gaucher,La Ferté-Gaucher,77,Seine-et-Marne,1,48.7809152,3.3056006,https://www.la-ferte-gaucher.org/,,1 place du Général-de-Gaulle,,77320,La Ferté-Gaucher
+77216,Grez-sur-Loing,Grez-sur-Loing,77,Seine-et-Marne,2,48.3152999878,2.69045996666,http://www.grezsurloing.fr/,,86 rue Wilson,,77880,Grez-sur-Loing
+77305,Montereau-Fault-Yonne,Montereau-Fault-Yonne,77,Seine-et-Marne,3,48.3847375,2.9563587,https://www.ville-montereau77.fr/,,54 rue Jean-Jaurès,,77130,Montereau-Fault-Yonne
+77307,Montévrain,Montévrain,77,Seine-et-Marne,2,48.875,2.745470047,https://www.montevrain.fr/,,4 rue Bonne-Mouche,,77144,Montévrain
+77379,Provins,Provins,77,Seine-et-Marne,3,48.560245,3.2992085,https://www.mairie-provins.fr/,,5 place du Maréchal-Leclerc,CS 60405,77487,Provins Cedex
+77413,Saint-Germain-sur-Morin,Saint-Germain-sur-Morin,77,Seine-et-Marne,1,48.8834528,2.8506544,https://www.saint-germain-sur-morin.org/,,6 place de la Mairie,,77860,Saint-Germain-sur-Morin
+78003,Ablis,Ablis,78,Yvelines,3,48.51720047,1.83281004429,http://www.ablis.fr,,8 rue de la Mairie,,78660,Ablis
+78220,Les Essarts-le-Roi,Les Essarts-le-Roi,78,Yvelines,1,48.717599,1.894862,http://www.essarts-le-roi.org,,18 rue du 11-Novembre-1918,CS 60700,78612,Les Essarts-le-Roi
+78267,Gargenville,Gargenville,78,Yvelines,1,48.98988,1.8097527,http://www.gargenville.fr,,Avenue Mademoiselle Dosne,CS 2421,78440,Gargenville
+78354,Magnanville,Magnanville,78,Yvelines,1,48.9672012329,1.68032002449,http://www.magnanville.fr,,Rue de la Ferme,,78200,Magnanville
+78383,Maurepas,Maurepas,78,Yvelines,3,48.762093,1.9451782,http://www.maurepas.fr,,2 place d'Auxois,,78310,Maurepas
+78416,Montalet-le-Bois,Montalet-le-Bois,78,Yvelines,1,49.0459622,1.8256458,http://www.montaletlebois.fr,,2 rue de l'Église,,78440,Montalet-le-Bois
+78440,Les Mureaux,Les Mureaux,78,Yvelines,3,48.9934005737,1.91033995152,http://www.lesmureaux.fr,,Place de la Libération,BP 2053,78135,Les Mureaux Cedex
+78455,Noisy-le-Roi,Noisy-le-Roi,78,Yvelines,2,48.84400177,2.06461000443,http://www.noisyleroi.fr,,37 rue André-le-Bourblanc,CS 70032,78592,Noisy-le-Roi Cedex
+78481,Le Pecq,Le Pecq,78,Yvelines,3,48.8973999023,2.10695004463,http://www.ville-lepecq.fr,,13 bis quai Maurice-Berteaux,,78231,Le Pecq Cedex
+78650,Le Vésinet,Le Vésinet,78,Yvelines,4,48.8940010071,2.13490009308,http://www.levesinet.fr,,60 boulevard Carnot,,78116,Le Vésinet Cedex
+91103,Brétigny-sur-Orge,Brétigny-sur-Orge,91,Essonne,2,48.6112535,2.3059307,http://www.bretigny91.fr,,44 rue de la Mairie,BP 58,91220,Brétigny-sur-Orge Cedex
+91111,Briis-sous-Forges,Briis-sous-Forges,91,Essonne,3,48.6245346,2.1248517,http://www.briis.fr,,Place de la Libération,,91640,Briis-sous-Forges
+91549,Sainte-Geneviève-des-Bois,Sainte-Geneviève-des-Bois,91,Essonne,4,48.6408996582,2.32620000839,http://www.sgdb91.com,,Place Roger-Perriaud,,91700,Sainte-Geneviève-des-Bois
+93027,La Courneuve,La Courneuve,93,Seine-Saint-Denis,3,48.9269981384,2.38913011551,http://www.ville-la-courneuve.fr,,Avenue de la République,,93120,La Courneuve
+93032,Gagny,Gagny,93,Seine-Saint-Denis,4,48.8850756,2.5362686,http://www.gagny.fr,,1 place Foch,,93220,Gagny
+94002,Alfortville,Alfortville,94,Val-de-Marne,3,48.8054058,2.4195177,http://www.alfortville.fr,,Place François-Mitterrand,BP 75,94142,Alfortville Cedex
+94004,Boissy-Saint-Léger,Boissy-Saint-Léger,94,Val-de-Marne,3,48.7477989197,2.51286005974,http://www.ville-boissy.fr,,7 boulevard Léon-Révillon,,94470,Boissy-Saint-Léger
+94016,Cachan,Cachan,94,Val-de-Marne,4,48.7946192,2.3339423,http://www.ville-cachan.fr,,Square de la Libération,,94230,Cachan
+94028,Créteil,Créteil,94,Val-de-Marne,4,48.7782478333,2.45426106453,http://www.ville-creteil.fr,,1 place Salvador-Allende,,94000,Créteil
+94067,Saint-Mandé,Saint-Mandé,94,Val-de-Marne,2,48.8435334,2.4189588,http://www.mairie-saint-mande.fr,,10 place Charles-Digeon,,94160,Saint-Mandé
+94079,Villiers-sur-Marne,Villiers-sur-Marne,94,Val-de-Marne,2,48.8265762329,2.54033899307,http://www.mairie-villiers94.com,,Place de l'Hôtel-de-Ville,,94350,Villiers-sur-Marne
+95014,Andilly,Andilly,95,Val-d'Oise,3,49.0054772,2.3001855,http://www.ville-andilly-95.fr,Hôtel de Ville,1 rue René-Cassin,,95580,Andilly
+77005,Annet-sur-Marne,Annet-sur-Marne,77,Seine-et-Marne,3,48.925201416,2.722219944,,,38 rue Paul-Valentin,,77410,Annet-sur-Marne
+77083,Champs-sur-Marne,Champs-sur-Marne,77,Seine-et-Marne,3,48.8531557,2.6023828,http://ville-champssurmarne.fr/,,Mail Jean-Ferrat,,77420,Champs-sur-Marne
+77153,Dammartin-en-Goële,Dammartin-en-Goële,77,Seine-et-Marne,1,49.0540008545,2.67855000496,http://www.dammartin-en-goele.fr/,,79 rue du Général-de-Gaulle,,77230,Dammartin-en-Goële
+77214,Gressy,Gressy,77,Seine-et-Marne,3,48.9585627,2.659638,https://www.gressy.fr/,,12 avenue du Château,,77410,Gressy
+77238,Jouarre,Jouarre,77,Seine-et-Marne,1,48.9272003174,3.13038992882,https://www.jouarre.fr/,,Place Auguste-Tinchant,,77640,Jouarre
+77243,Lagny-sur-Marne,Lagny-sur-Marne,77,Seine-et-Marne,3,48.8773321,2.7056761,https://www.lagny-sur-marne.fr/,,2 place de l'Hôtel-de-Ville,,77400,Lagny-sur-Marne
+77258,Lognes,Lognes,77,Seine-et-Marne,2,48.8386767,2.6325772,https://www.mairie-lognes.fr/,,11 esplanade des Droits-de-l'Homme,,77185,Lognes
+77442,Samoreau,Samoreau,77,Seine-et-Marne,2,48.4253762,2.7559942,https://www.samoreau.fr/,,24 rue du Haut-Samoreau,,77210,Samoreau
+78152,Chavenay,Chavenay,78,Yvelines,2,48.8532981873,1.98676002026,http://www.chavenay.fr,,Place de l'Église,,78450,Chavenay
+78208,Élancourt,Élancourt,78,Yvelines,3,48.8229827881,1.96064698696,http://www.elancourt.fr,,Place du Général-de-Gaulle,,78990,Élancourt
+78396,Le Mesnil-le-Roi,Le Mesnil-le-Roi,78,Yvelines,3,48.9337005615,2.12428998947,http://www.lemesnilleroi.com,Hôtel-de-Ville,1 rue du Général-Leclerc,,78600,Le Mesnil-le-Roi
+78545,Saint-Cyr-l'École,Saint-Cyr-l'École,78,Yvelines,1,48.7993719,2.0671394,http://www.saintcyr78.fr,,Square de l'Hôtel-de-Ville,BP 106,78210,Saint-Cyr-l'École
+91136,Champlan,Champlan,91,Essonne,3,48.7084999084,2.27431988716,http://www.ville-champlan.fr,,Place de la Mairie,,91160,Champlan
+91200,Dourdan,Dourdan,91,Essonne,3,48.5293006897,2.01621007919,http://www.mairie-dourdan.fr,,Esplanade Jean-Moulin,,91410,Dourdan Cedex
+91534,Saclay,Saclay,91,Essonne,2,48.731098175,2.17242002487,http://www.saclay.fr,,12 place de la Mairie,,91400,Saclay
+91631,Varennes-Jarcy,Varennes-Jarcy,91,Essonne,1,48.6783967,2.5599879,http://www.varennesjarcy.fr,,Place Aristide-Briand,,91480,Varennes-Jarcy
+92009,Bois-Colombes,Bois-Colombes,92,Hauts-de-Seine,3,48.9146003723,2.26764988899,http://www.bois-colombes.com,,15 rue Charles-Duflos,,92277,Bois-Colombes Cedex
+92019,Châtenay-Malabry,Châtenay-Malabry,92,Hauts-de-Seine,3,48.7670102,2.2773821,http://www.chatenay-malabry.fr,,26 rue du Docteur-le-Savoureux,,92290,Châtenay-Malabry
+92050,Nanterre,Nanterre,92,Hauts-de-Seine,3,48.8920440674,2.20526599884,http://www.nanterre.fr,,88-118 rue du 8-Mai-1945,,92000,Nanterre
+93007,Le Blanc-Mesnil,Le Blanc-Mesnil,93,Seine-Saint-Denis,3,48.9388928,2.4625142,http://www.blancmesnil.fr,,1 place Gabriel-Péri,BP 10076,93156,Le Blanc-Mesnil Cedex
+93046,Livry-Gargan,Livry-Gargan,93,Seine-Saint-Denis,4,48.9194246,2.5373755,http://www.livry-gargan.fr,,3 place François-Mitterrand,,93190,Livry-Gargan
+93066,Saint-Denis,Saint-Denis,93,Seine-Saint-Denis,3,48.9369697571,2.35975599289,http://www.ville-saint-denis.fr,,2 place du Caquet,,93200,Saint-Denis
+94021,Chevilly-Larue,Chevilly-Larue,94,Val-de-Marne,2,48.7709625,2.3478216,http://www.ville-chevilly-larue.fr,,88 avenue du Général-de-Gaulle,,94669,Chevilly-Larue Cedex
+94052,Nogent-sur-Marne,Nogent-sur-Marne,94,Val-de-Marne,3,48.8371009827,2.48797011375,https://ville-nogentsurmarne.com,,Place Roland-Nungesser,,94130,Nogent-sur-Marne
+94074,Valenton,Valenton,94,Val-de-Marne,2,48.7444267273,2.47027111053,http://www.valenton.fr,,48 rue du Colonel-Fabien,,94460,Valenton
+95199,Domont,Domont,95,Val-d'Oise,3,49.0281982422,2.32786989212,http://www.domont.fr,,47 rue de la Mairie,BP 40001,95331,Domont Cedex
+95268,Garges-lès-Gonesse,Garges-lès-Gonesse,95,Val-d'Oise,3,48.971698761,2.39990997314,http://www.villedegarges.fr,,8 place de l'Hôtel-de-Ville,BP 2,95141,Garges-lès-Gonesse Cedex
+95607,Taverny,Taverny,95,Val-d'Oise,1,49.0266189,2.2261067,http://www.ville-taverny.fr,,2 place Charles-de-Gaulle,BP 90002,95150,Taverny
+77316,Écuelles,Moret-Loing-et-Orvanne,77,Seine-et-Marne,1,48.3734924,2.8154686,http://moret-loing-et-orvanne.fr/,,26 rue Grande,,77250,Moret-Loing-et-Orvanne
+77016,Bagneaux-sur-Loing,Bagneaux-sur-Loing,77,Seine-et-Marne,2,48.2307014465,2.70526003838,https://www.bagneauxsurloing.fr/,,Place de l'Hôtel-de-Ville,,77167,Bagneaux-sur-Loing
+77123,Compans,Compans,77,Seine-et-Marne,3,48.9938011169,2.66247010231,https://www.mairiedecompans.fr/,,1 rue de la Mairie,,77290,Compans
+77219,Guérard,Guérard,77,Seine-et-Marne,1,48.8244296,2.9582748,http://www.guerard.fr/,,Place de la Mairie,,77580,Guérard
+77330,Nanteuil-lès-Meaux,Nanteuil-lès-Meaux,77,Seine-et-Marne,2,48.9280414,2.8963914,https://www.nanteuil-les-meaux.fr/,,14 rue Benjamin-Brunet,,77100,Nanteuil-lès-Meaux
+77390,Roissy-en-Brie,Roissy-en-Brie,77,Seine-et-Marne,2,48.7911987305,2.65422010422,https://www.roissyenbrie77.fr/,,9 rue Pasteur,,77680,Roissy-en-Brie
+77407,Saint-Fargeau-Ponthierry,Saint-Fargeau-Ponthierry,77,Seine-et-Marne,2,48.535276,2.528266,https://www.saint-fargeau-ponthierry.fr/,,185 avenue de Fontainebleau,,77310,Saint-Fargeau-Ponthierry
+78005,Achères,Achères,78,Yvelines,3,48.9607009888,2.07027006149,http://www.mairie-acheres78.fr,,6-8 rue Deschamps-Guérin,,78260,Achères
+78070,Boinville-en-Mantois,Boinville-en-Mantois,78,Yvelines,2,48.9295005798,1.75668001175,,,2 rue du Clos-Doré,,78930,Boinville-en-Mantois
+78242,Fontenay-le-Fleury,Fontenay-le-Fleury,78,Yvelines,3,48.811119,2.0451144,http://www.fontenay-le-fleury.org,,Place du 8-Mai-1945,,78330,Fontenay-le-Fleury
+78350,Louveciennes,Louveciennes,78,Yvelines,3,48.8610572815,2.1149289608,http://www.mairie-louveciennes.fr,,30 rue du Général-Leclerc,,78430,Louveciennes
+78362,Mantes-la-Ville,Mantes-la-Ville,78,Yvelines,1,48.978154,1.713371,https://www.manteslaville.fr/,,Place de la Mairie,,78711,Mantes-la-Ville
+91174,Corbeil-Essonnes,Corbeil-Essonnes,91,Essonne,2,48.6136679,2.4796578,http://www.corbeil-essonnes.fr,Hôtel de Ville,2 place Galignani,,91108,Corbeil-Essonnes Cedex
+91179,Le Coudray-Montceaux,Le Coudray-Montceaux,91,Essonne,2,48.5656013489,2.48572993279,http://www.coudray-montceaux.fr,,45 avenue Charles-de-Gaulle,,91830,Le Coudray-Montceaux
+91330,Lardy,Lardy,91,Essonne,2,48.5206985474,2.26502990723,http://www.ville-lardy.fr,,70 Grande rue,,91510,Lardy
+91386,Mennecy,Mennecy,91,Essonne,2,48.5668376,2.4348078,http://www.mennecy.fr,Hôtel de Ville,2 place de la Mairie,,91540,Mennecy
+91461,Ollainville,Ollainville,91,Essonne,2,48.5913009644,2.21662998199,http://www.mairie-ollainville91.fr,,2 rue de la Mairie,,91340,Ollainville
+91471,Orsay,Orsay,91,Essonne,3,48.6989009,2.1873819,http://www.mairie-orsay.fr,,2 place du Général-Leclerc,BP 47,91400,Orsay Cedex
+91479,Paray-Vieille-Poste,Paray-Vieille-Poste,91,Essonne,3,48.7131004333,2.36299991608,http://www.paray-vieille-poste.fr,,Place Henri-Barbusse,BP 73,91551,Paray-Vieille-Poste
+91600,Soisy-sur-Seine,Soisy-sur-Seine,91,Essonne,3,48.646900177,2.44914007187,http://www.soisysurseine.fr,,Place du Général-Leclerc,,91450,Soisy-sur-Seine
+91689,Wissous,Wissous,91,Essonne,1,48.7316017151,2.32668995857,http://www.mairie-wissous.fr,,Place de la Libération,,91320,Wissous
+92004,Asnières-sur-Seine,Asnières-sur-Seine,92,Hauts-de-Seine,2,48.9103657,2.2894093,http://www.asnieres-sur-seine.fr,,1 place de l'Hôtel-de-Ville,BP 217,92602,Asnières-sur-Seine Cedex
+92014,Bourg-la-Reine,Bourg-la-Reine,92,Hauts-de-Seine,3,48.7790985107,2.31616997719,http://www.bourg-la-reine.fr,,6 boulevard Carnot,,92340,Bourg-la-Reine
+92024,Clichy,Clichy,92,Hauts-de-Seine,3,48.9023895264,2.3043410778,http://www.ville-clichy.fr,,80 boulevard Jean-Jaurès,BP 300,92110,Clichy
+92063,Rueil-Malmaison,Rueil-Malmaison,92,Hauts-de-Seine,4,48.8782251,2.1804689,http://www.villederueil.fr,Hôtel de Ville,13 boulevard du Maréchal-Foch,,92501,Rueil-Malmaison Cedex
+92077,Ville-d'Avray,Ville-d'Avray,92,Hauts-de-Seine,2,48.8282012939,2.18981003761,http://www.mairie-villedavray.fr,,13 rue de Saint-Cloud,,92410,Ville-d'Avray
+92078,Villeneuve-la-Garenne,Villeneuve-la-Garenne,92,Hauts-de-Seine,3,48.9356002808,2.33300995827,http://www.villeneuve92.com,,28 avenue de Verdun,,92390,Villeneuve-la-Garenne
+93049,Neuilly-Plaisance,Neuilly-Plaisance,93,Seine-Saint-Denis,2,48.8610154,2.5058833,http://www.mairie-neuillyplaisance.com,,6 rue du Général-de-Gaulle,,93360,Neuilly-Plaisance
+93061,Le Pré-Saint-Gervais,Le Pré-Saint-Gervais,93,Seine-Saint-Denis,1,48.8828010559,2.4032599926,http://www.villedupre.fr,,84 bis rue André-Joineau,,93310,Le Pré-Saint-Gervais
+93070,Saint-Ouen-sur-Seine,Saint-Ouen-sur-Seine,93,Seine-Saint-Denis,3,48.9121894836,2.33328509331,http://www.saint-ouen.fr,,7 place de la République,,93406,Saint-Ouen Cedex
+93074,Vaujours,Vaujours,93,Seine-Saint-Denis,2,48.9323323,2.5674406,http://www.vaujours.fr,,20 rue Alexandre-Boucher,,93410,Vaujours
+94022,Choisy-le-Roi,Choisy-le-Roi,94,Val-de-Marne,3,48.763341,2.409256,http://www.choisyleroi.fr,,Place Gabriel-Péri,,94600,Choisy-le-Roi
+94033,Fontenay-sous-Bois,Fontenay-sous-Bois,94,Val-de-Marne,3,48.851211,2.474345,http://www.fontenay-sous-bois.fr,,4 esplanade Louis-Bayeurte,,94125,Fontenay-sous-Bois
+94042,Joinville-le-Pont,Joinville-le-Pont,94,Val-de-Marne,3,48.8181266785,2.46630311012,http://www.ville-joinville-le-pont.fr,,23 rue de Paris,BP 83,94340,Joinville-le-Pont
+94046,Maisons-Alfort,Maisons-Alfort,94,Val-de-Marne,4,48.8012008667,2.43154001236,http://www.maisons-alfort.fr,,118 avenue du Général-de-Gaulle,,94700,Maisons-Alfort
+95352,Luzarches,Luzarches,95,Val-d'Oise,1,49.1124992371,2.42248988152,http://www.luzarches.net,,Place de la Mairie,CS 50018,95270,Luzarches
+77027,Beaumont-du-Gâtinais,Beaumont-du-Gâtinais,77,Seine-et-Marne,1,48.13655,2.474809,https://beaumont-du-gatinais.fr/,,1 rue Montgaudier,,77890,Beaumont-du-Gâtinais
+77116,Choisy-en-Brie,Choisy-en-Brie,77,Seine-et-Marne,1,48.7594985962,3.22702002525,https://www.choisy-en-brie.fr/,,5 route de la Ferté-Gaucher,,77320,Choisy-en-Brie
+77121,Collégien,Collégien,77,Seine-et-Marne,2,48.8364502,2.6731526,http://www.mairie-de-collegien.fr/,,8 place Mireille-Morvan,BP 80,77090,Collégien
+77131,Coulommiers,Coulommiers,77,Seine-et-Marne,3,48.8116989136,3.08415007591,https://www.coulommiers.fr/,,13 rue du Général-de-Gaulle,,77120,Coulommiers
+77181,Ferrières-en-Brie,Ferrières-en-Brie,77,Seine-et-Marne,2,48.8218495,2.7045794,https://ferrieres-en-brie.com/,,24 rue Jean-Jaurès,CS 90092,77164,Ferrières-en-Brie
+77438,Saint-Thibault-des-Vignes,Saint-Thibault-des-Vignes,77,Seine-et-Marne,1,48.8687018,2.6885816,https://www.saintthibaultdesvignes.fr/,,Place de l'Église,,77400,Saint-Thibault-des-Vignes
+77468,Torcy,Torcy,77,Seine-et-Marne,2,48.8498001099,2.65290999413,https://www.ville-torcy.fr/,,Place de l'Appel-du-18-Juin-1940,,77200,Torcy
+78160,Chevreuse,Chevreuse,78,Yvelines,2,48.7075004578,2.04450011253,http://www.chevreuse.fr,,5 rue de la Division-Leclerc,,78460,Chevreuse
+78423,Montigny-le-Bretonneux,Montigny-le-Bretonneux,78,Yvelines,2,48.7697601318,2.03700494766,http://www.montigny78.fr,Hôtel de Ville,66 rue de la Mare-aux-Carats,,78180,Montigny-le-Bretonneux
+78466,Orgeval,Orgeval,78,Yvelines,1,48.9184982,1.9747186,http://www.ville-orgeval.fr,,123 rue du Docteur-Maurer,,78630,Orgeval
+78517,Rambouillet,Rambouillet,78,Yvelines,3,48.6451533,1.8195006,http://www.rambouillet.fr,,2 place de la Libération,,78120,Rambouillet
+91191,Crosne,Crosne,91,Essonne,1,48.7159287,2.4587017,http://www.crosne.fr,,35 avenue Jean-Jaurès,,91560,Crosne
+91249,Forges-les-Bains,Forges-les-Bains,91,Essonne,1,48.6276016235,2.10018992424,http://www.forges-les-bains.fr,,9 rue du Docteur-Babin,,91470,Forges-les-Bains
+91339,Linas,Linas,91,Essonne,2,48.6315234,2.2664499,http://www.linas.fr,,Place Ernest-Pillon,,91310,Linas
+92020,Châtillon,Châtillon,92,Hauts-de-Seine,3,48.7998008728,2.29005002975,http://www.ville-chatillon.fr,,1 place de la Libération,,92320,Châtillon
+92022,Chaville,Chaville,92,Hauts-de-Seine,3,48.8097566,2.1883895,http://www.ville-chaville.fr,,1456 avenue Roger-Salengro,,92370,Chaville
+92026,Courbevoie,Courbevoie,92,Hauts-de-Seine,4,48.8953355,2.2564448,http://www.ville-courbevoie.fr,,Place de l'Hôtel-de-Ville,,92401,Courbevoie Cedex
+93005,Aulnay-sous-Bois,Aulnay-sous-Bois,93,Seine-Saint-Denis,4,48.9351005554,2.4970600605,http://www.aulnay-sous-bois.com,,14-16 boulevard Félix-Faure,,93602,Aulnay-sous-Bois Cedex
+94003,Arcueil,Arcueil,94,Val-de-Marne,2,48.8064002991,2.33730006218,http://www.arcueil.fr,,10 avenue Paul-Doumer,,94110,Arcueil
+94011,Bonneuil-sur-Marne,Bonneuil-sur-Marne,94,Val-de-Marne,3,48.7683944702,2.48810005188,http://www.ville-bonneuil.fr,,7 rue d'Estienne-d'Orves,CS 70027,94380,Bonneuil-sur-Marne Cedex
+95078,Boissy-l'Aillerie,Boissy-l'Aillerie,95,Val-d'Oise,2,49.0774993896,2.0303800106,http://www.boissylaillerie.com,,9 rue de la République,,95650,Boissy-l'Aillerie
+95197,Deuil-la-Barre,Deuil-la-Barre,95,Val-d'Oise,2,48.975381,2.328438,http://www.mairie-deuillabarre.fr,,36 rue Charles-de-Gaulle,,95170,Deuil-la-Barre
+95212,Épiais-lès-Louvres,Épiais-lès-Louvres,95,Val-d'Oise,2,49.0318622,2.5574188,https://epiais-les-louvres.fr/,,8 rue du Manoir,,95380,Épiais-lès-Louvres
+95539,Saint-Brice-sous-Forêt,Saint-Brice-sous-Forêt,95,Val-d'Oise,1,48.9975013733,2.3566300869,http://www.saintbrice95.fr,,14 rue de Paris,,95350,Saint-Brice-sous-Forêt
+95585,Sarcelles,Sarcelles,95,Val-d'Oise,2,48.9977119,2.3784812,http://www.sarcelles.fr,Hôtel de Ville,3 rue de la Résistance,,95200,Sarcelles
+77316,Moret-sur-Loing,Moret-Loing-et-Orvanne,77,Seine-et-Marne,2,48.3734924,2.8154686,http://moret-loing-et-orvanne.fr/,,26 rue Grande,,77250,Moret-Loing-et-Orvanne
+77118,Claye-Souilly,Claye-Souilly,77,Seine-et-Marne,4,48.9460983276,2.68787002563,https://www.claye-souilly.fr/,,1 allée André-Benoit,,77410,Claye-Souilly
+77143,Crégy-lès-Meaux,Crégy-lès-Meaux,77,Seine-et-Marne,2,48.9780006409,2.87778997421,https://www.cregylesmeaux.fr/,,28 rue Jean-Jaurès,,77124,Crégy-lès-Meaux
+77152,Dammarie-les-Lys,Dammarie-les-Lys,77,Seine-et-Marne,2,48.514793396,2.63442397118,http://www.mairie-dammarie-les-lys.fr/,Hôtel de Ville,26 rue Charles-de-Gaulle,BP 24,77190,Dammarie-les-Lys
+77249,Lésigny,Lésigny,77,Seine-et-Marne,3,48.7444229,2.6160655,https://www.lesigny.fr/,,6 rue de Villarceau,,77150,Lésigny
+77268,Magny-le-Hongre,Magny-le-Hongre,77,Seine-et-Marne,3,48.8666189,2.8111027,https://www.magnylehongre.fr/,,21 rue du Moulin-à-Vent,,77700,Magny-le-Hongre
+77322,Moussy-le-Neuf,Moussy-le-Neuf,77,Seine-et-Marne,3,49.0637016296,2.6041200161,https://www.moussy-le-neuf.fr/,,Place Charles-de-Gaulle,,77230,Moussy-le-Neuf
+77327,Nangis,Nangis,77,Seine-et-Marne,2,48.5555000305,3.01358008385,https://ville-nangis.fr/,,Rue du Maréchal-de-Lattre-de-Tassigny,CS 50404,77370,Nangis
+78015,Andrésy,Andrésy,78,Yvelines,2,48.9818992615,2.06136989594,http://www.andresy.com,Hôtel de Ville,4 boulevard Noël-Marc,,78570,Andrésy
+78029,Aubergenville,Aubergenville,78,Yvelines,3,48.9584999084,1.85555005074,http://www.aubergenville.fr,,1 avenue de la Division-Leclerc,CS 20516,78410,Aubergenville Cedex
+78073,Bois-d'Arcy,Bois-d'Arcy,78,Yvelines,2,48.8008003235,2.03104996681,http://www.boisdarcy.fr,,2 avenue Paul-Vaillant-Couturier,,78390,Bois-d'Arcy
+78113,Brueil-en-Vexin,Brueil-en-Vexin,78,Yvelines,1,48.9922981262,1.79463005066,http://www.brueil-en-vexin.fr,,14 rue de l'Église,,78440,Brueil-en-Vexin
+78133,Chambourcy,Chambourcy,78,Yvelines,2,48.9059133,2.0395834,http://www.chambourcy.fr,,Place Charles-de-Gaulle,,78240,Chambourcy
+78190,Croissy-sur-Seine,Croissy-sur-Seine,78,Yvelines,1,48.8801806,2.1476333,http://www.croissy.com,,8 avenue de Verdun,CS 40021,78290,Croissy-sur-Seine
+78343,Les Loges-en-Josas,Les Loges-en-Josas,78,Yvelines,1,48.7644004822,2.14093995094,http://www.mairieleslogesenjosas.fr,,2 Grande rue,,78350,Les Loges-en-Josas
+78372,Marly-le-Roi,Marly-le-Roi,78,Yvelines,2,48.867893219,2.0967810154,http://www.marlyleroi.fr,,Place du Général-de-Gaulle,,78160,Marly-le-Roi
+78501,Porcheville,Porcheville,78,Yvelines,1,48.9722324,1.7773868,http://www.mairie-porcheville.fr,,17 boulevard de la République,,78440,Porcheville
+78575,Saint-Rémy-lès-Chevreuse,Saint-Rémy-lès-Chevreuse,78,Yvelines,2,48.7061004639,2.07190990448,http://www.ville-st-remy-chevreuse.fr,,2 rue Victor-Hugo,BP 38,78470,Saint-Rémy-lès-Chevreuse
+78642,Verneuil-sur-Seine,Verneuil-sur-Seine,78,Yvelines,2,48.9789009094,1.97517001629,http://www.ville-verneuil-sur-seine.fr,,6 boulevard André-Malraux,,78480,Verneuil-sur-Seine
+78672,Villennes-sur-Seine,Villennes-sur-Seine,78,Yvelines,1,48.9408988953,1.99821996689,http://www.ville-villennes-sur-seine.fr,,36 avenue Foch,,78670,Villennes-sur-Seine
+78688,Voisins-le-Bretonneux,Voisins-le-Bretonneux,78,Yvelines,2,48.758354187,2.0505259037,http://www.voisins78.fr,,1 place Charles-de-Gaulle,,78960,Voisins-le-Bretonneux
+91114,Brunoy,Brunoy,91,Essonne,2,48.6978398,2.5041465,http://www.brunoy.fr,,Place de la Mairie,BP 83,91805,Brunoy
+91338,Limours,Limours,91,Essonne,2,48.6458376,2.0767166,http://www.limours.fr,,Place du Général-de-Gaulle,,91470,Limours
+91477,Palaiseau,Palaiseau,91,Essonne,2,48.7147407532,2.24559688568,http://www.ville-palaiseau.fr,,91 rue de Paris,CS 95315,91125,Palaiseau Cedex
+91659,Villabé,Villabé,91,Essonne,1,48.5892274,2.4536764,http://www.villabe.fr,,34 bis avenue du 8-Mai-1945,,91100,Villabé
+92023,Clamart,Clamart,92,Hauts-de-Seine,3,48.8013433,2.2628095,http://www.clamart.fr,Centre administratif,1 avenue Jean-Jaurès,,92140,Clamart
+92046,Malakoff,Malakoff,92,Hauts-de-Seine,3,48.8211267,2.3014858,http://www.ville-malakoff.fr,Hôtel de Ville,Place du 11-Novembre-1918,CS 80031,92245,Malakoff Cedex
+93039,L'Île-Saint-Denis,L'Île-Saint-Denis,93,Seine-Saint-Denis,1,48.935798645,2.33945989609,http://www.lile-saint-denis.fr,,1 rue Méchin,,93450,L'Île-Saint-Denis
+93050,Neuilly-sur-Marne,Neuilly-sur-Marne,93,Seine-Saint-Denis,3,48.8567008972,2.52872991562,https://www.neuillysurmarne.fr,,1 place François-Mitterrand,,93330,Neuilly-sur-Marne
+93064,Rosny-sous-Bois,Rosny-sous-Bois,93,Seine-Saint-Denis,3,48.8721036,2.4883129,http://www.rosny93.fr,,20 rue Claude-Pernès,,93111,Rosny-sous-Bois Cedex
+94065,Rungis,Rungis,94,Val-de-Marne,4,48.7486991882,2.34744000435,http://www.rungis.fr,,5 rue Sainte-Geneviève,,94150,Rungis
+94078,Villeneuve-Saint-Georges,Villeneuve-Saint-Georges,94,Val-de-Marne,2,48.7293675,2.4471817,http://www.villeneuve-saint-georges.fr,,20 place Pierre-Sémard,,94190,Villeneuve-Saint-Georges
+95127,Cergy,Cergy,95,Val-d'Oise,3,49.035617,2.060325,http://www.ville-cergy.fr,,3 place de l'Olympe-de-Gouges,,95801,Cergy Cedex
+95527,Roissy-en-France,Roissy-en-France,95,Val-d'Oise,2,49.0032992,2.5175248,http://www.roissyenfrance.fr,,40 avenue Charles-de-Gaulle,,95700,Roissy-en-France
+95598,Soisy-sous-Montmorency,Soisy-sous-Montmorency,95,Val-d'Oise,4,48.9859008789,2.3000600338,http://www.soisy-sous-montmorency.fr,Hôtel de Ville,2 avenue du Général-de-Gaulle,BP 50029,95232,Soisy-sous-Montmorency Cedex
+95680,Villiers-le-Bel,Villiers-le-Bel,95,Val-d'Oise,2,49.0014803,2.3846182,http://www.ville-villiers-le-bel.fr,,32 rue de la République,,95400,Villiers-le-Bel
+77067,Cesson,Cesson,77,Seine-et-Marne,2,48.5626296997,2.60323596001,https://www.ville-cesson.fr/,,8 route de Saint-Leu,BP 35,77245,Cesson Cedex
+77284,Meaux,Meaux,77,Seine-et-Marne,4,48.9587474,2.877579,https://www.ville-meaux.fr/,,Place de l'Hôtel-de-Ville,BP 227,77107,Meaux Cedex
+77350,Ozoir-la-Ferrière,Ozoir-la-Ferrière,77,Seine-et-Marne,3,48.763827,2.671739,http://www.mairie-ozoir-la-ferriere.fr/,,45 avenue du Général-de-Gaulle,,77834,Ozoir-la-Ferrière
+77458,Souppes-sur-Loing,Souppes-sur-Loing,77,Seine-et-Marne,2,48.1831016541,2.73599004745,http://www.souppes.fr/,,19 avenue du Maréchal-Leclerc,,77460,Souppes-sur-Loing
+78123,Carrières-sous-Poissy,Carrières-sous-Poissy,78,Yvelines,2,48.9508666992,2.03869199753,http://www.carrieres-sous-poissy.fr,,1 place Saint-Blaise,,78955,Carrières-sous-Poissy
+78126,La Celle-Saint-Cloud,La Celle-Saint-Cloud,78,Yvelines,3,48.8480987549,2.13683009148,http://www.lacellesaintcloud.fr,,8 E avenue Charles-de-Gaulle,,78170,La Celle-Saint-Cloud
+78551,Saint-Germain-en-Laye,Saint-Germain-en-Laye,78,Yvelines,3,48.89984,2.084025,http://www.saintgermainenlaye.fr,Centre Administratif,86-88 rue Léon-Desoyer,BP 10101,78101,Saint-Germain-en-Laye Cedex
+78686,Viroflay,Viroflay,78,Yvelines,3,48.7994995117,2.17297005653,http://www.ville-viroflay.fr,,2 place du Général-de-Gaulle,BP 16,78221,Viroflay Cedex
+91195,Dannemois,Dannemois,91,Essonne,2,48.451738,2.4738332,http://www.dannemois.fr,,1 rue de la Messe,,91490,Dannemois
+91521,Ris-Orangis,Ris-Orangis,91,Essonne,3,48.653629303,2.41588807106,http://www.ville-ris-orangis.fr,,Place du Général-de-Gaulle,BP 39,91130,Ris-Orangis
+91648,Vert-le-Grand,Vert-le-Grand,91,Essonne,3,48.5732292,2.3585535,http://www.vertlegrand.com,,7 place de la Mairie,,91810,Vert-le-Grand
+91661,Villebon-sur-Yvette,Villebon-sur-Yvette,91,Essonne,3,48.7000999451,2.2272400856,http://www.villebon-sur-yvette.fr,,Place Gérard-Nevers,,91140,Villebon-sur-Yvette
+91687,Viry-Châtillon,Viry-Châtillon,91,Essonne,3,48.6706586,2.375213,http://www.viry-chatillon.fr,Hôtel de Ville,1 place de la République,BP 43,91178,Viry-Châtillon
+92044,Levallois-Perret,Levallois-Perret,92,Hauts-de-Seine,4,48.8931616,2.2886643,http://www.ville-levallois.fr,,1 place de la République,,92300,Levallois
+92060,Le Plessis-Robinson,Le Plessis-Robinson,92,Hauts-de-Seine,4,48.7823982239,2.26172995567,http://www.plessis-robinson.com,,3 place de la Mairie,,92350,Le Plessis-Robinson
+93029,Drancy,Drancy,93,Seine-Saint-Denis,1,48.9341011047,2.49926996231,https://www.drancy.fr,,Place de l'Hôtel-de-Ville,BP 76,93701,Drancy Cedex
+93079,Villetaneuse,Villetaneuse,93,Seine-Saint-Denis,3,48.961176,2.343861,http://www.mairie-villetaneuse.frcontact,,1 place de l'Hôtel-de-Ville,,93430,Villetaneuse
+94018,Charenton-le-Pont,Charenton-le-Pont,94,Val-de-Marne,3,48.8195991516,2.41581988335,http://www.charentonlepont.fr,,48 rue de Paris,,94220,Charenton-le-Pont
+94076,Villejuif,Villejuif,94,Val-de-Marne,1,48.7949315,2.3662483,http://www.villejuif.fr,,1 esplanade Pierre-Yves-Cosnier,,94807,Villejuif Cedex
+94080,Vincennes,Vincennes,94,Val-de-Marne,3,48.8477465,2.4403082,http://www.vincennes.fr,,53 bis rue de Fontenay,BP 123,94304,Vincennes Cedex
+95018,Argenteuil,Argenteuil,95,Val-d'Oise,3,48.9464988708,2.24872994423,http://www.argenteuil.fr,,12-14 boulevard Léon-Feix,,95100,Argenteuil
+95052,Beaumont-sur-Oise,Beaumont-sur-Oise,95,Val-d'Oise,2,49.1417999268,2.28430008888,http://www.beaumontsuroise.fr,,29 rue de Paris,,95260,Beaumont-sur-Oise
+95203,Eaubonne,Eaubonne,95,Val-d'Oise,3,48.9911117554,2.2791030407,http://www.eaubonne.fr,,1 rue d'Enghien,,95600,Eaubonne
+95424,Montigny-lès-Cormeilles,Montigny-lès-Cormeilles,95,Val-d'Oise,2,48.987412,2.187929,http://www.montigny95.fr,,,,,
+77316,Montarlot,Moret-Loing-et-Orvanne,77,Seine-et-Marne,1,48.3734924,2.8154686,http://moret-loing-et-orvanne.fr/,,26 rue Grande,,77250,Moret-Loing-et-Orvanne
+91228,Courcouronnes,Évry-Courcouronnes,91,Essonne,3,48.623745,2.429457,https://www.evrycourcouronnes.fr/,,Place des Droits-de-l'Homme-et-du-Citoyen,,91011,Évry-Courcouronnes
+77014,Avon,Avon,77,Seine-et-Marne,3,48.4049351,2.7208826,http://www.avon77.com/,,8 rue Père-Maurice,,77216,Avon Cedex
+77053,Brie-Comte-Robert,Brie-Comte-Robert,77,Seine-et-Marne,3,48.6943016052,2.61049008369,https://www.briecomterobert.fr/,,2 rue de Verdun,,77170,Brie-Comte-Robert
+77108,Chelles,Chelles,77,Seine-et-Marne,3,49.0866787,1.8963993,https://www.chelles.fr/,,Parc du Souvenir-Émile-Fouchard,,77505,Chelles Cedex
+77176,Faremoutiers,Faremoutiers,77,Seine-et-Marne,2,48.8050003052,3.00276994705,http://www.faremoutiers.org/,,Avenue Victor-Massoul,,77515,Faremoutiers
+77294,Mitry-Mory,Mitry-Mory,77,Seine-et-Marne,1,48.9841995239,2.61911010742,https://www.mitry-mory.fr/,,11-13 rue Paul-Vaillant-Couturier,,77290,Mitry-Mory
+77337,Noisiel,Noisiel,77,Seine-et-Marne,3,48.8549995422,2.62811994553,https://www.ville-noisiel.fr/,,26 place Émile-Menier,,77186,Noisiel
+78172,Conflans-Sainte-Honorine,Conflans-Sainte-Honorine,78,Yvelines,2,49.000275,2.09554600716,http://www.conflans-sainte-honorine.fr,,63 rue Maurice-Berteaux,BP 350,78703,Conflans-Sainte-Honorine
+78230,La Falaise,La Falaise,78,Yvelines,1,48.9454994202,1.83167004585,http://www.la-falaise.fr,,6 rue des Grands-Prés,,78410,La Falaise
+78401,Meulan-en-Yvelines,Meulan-en-Yvelines,78,Yvelines,2,49.0046005249,1.91050004959,http://www.ville-meulan.fr,,10 place Brigitte-Gros,,78250,Meulan-en-Yvelines
+78417,Montchauvet,Montchauvet,78,Yvelines,1,48.8916015625,1.63058996201,https://www.lescommunes.com/commune-montchauvet-78417.fr.html,,8 rue de la Mairie,,78790,Montchauvet
+78490,Plaisir,Plaisir,78,Yvelines,2,48.8185844421,1.94681799412,http://www.ville-plaisir.fr,,2 rue de la République,BP 22,78370,Plaisir
+78640,Vélizy-Villacoublay,Vélizy-Villacoublay,78,Yvelines,4,48.7822990417,2.19105005264,http://www.velizy-villacoublay.fr,,2 place de l'Hôtel-de-Ville,BP 50051,78140,Vélizy-Villacoublay Cedex
+91175,Corbreuse,Corbreuse,91,Essonne,1,48.4994010925,1.96054005623,http://mairie-corbreuse.fr,,Rue des Écoles,,91410,Corbreuse
+91228,Évry-Courcouronnes,Évry-Courcouronnes,91,Essonne,3,48.623745,2.429457,https://www.evrycourcouronnes.fr/,,Place des Droits-de-l'Homme-et-du-Citoyen,,91011,Évry-Courcouronnes
+91286,Grigny,Grigny,91,Essonne,2,48.6545982361,2.3887898922,http://grigny91.fr,,19 route de Corbeil,BP 13,91350,Grigny
+91326,Juvisy-sur-Orge,Juvisy-sur-Orge,91,Essonne,2,48.6890946,2.374643,http://www.juvisy.fr,Place Anatole-France,25 Grande rue,,91260,Juvisy-sur-Orge
+91514,Quincy-sous-Sénart,Quincy-sous-Sénart,91,Essonne,1,48.6711006165,2.54044008255,http://www.mairie-quincy-sous-senart.fr,,5 rue Combs-la-Ville,,91480,Quincy-sous-Sénart
+91692,Les Ulis,Les Ulis,91,Essonne,3,48.6814994812,2.16945004463,http://www.lesulis.fr,,Rue du Morvan,BP 43,91940,Les Ulis
+92036,Gennevilliers,Gennevilliers,92,Hauts-de-Seine,3,48.9258469,2.2943438,http://www.ville-gennevilliers.fr,,177 avenue Gabriel-Péri,BP 217,92230,Gennevilliers
+93010,Bondy,Bondy,93,Seine-Saint-Denis,3,48.9021604,2.482633,http://www.ville-bondy.fr,,Esplanade Claude-Fuzier,,93143,Bondy Cedex
+93014,Clichy-sous-Bois,Clichy-sous-Bois,93,Seine-Saint-Denis,1,48.9107093811,2.54611897469,http://www.clichysousbois.fr,,Place du 11-Novembre-1918,,93390,Clichy-sous-Bois
+93055,Pantin,Pantin,93,Seine-Saint-Denis,3,48.896900177,2.40348005295,http://www.ville-pantin.fr,,84-88 avenue du Général-Leclerc,,93507,Pantin Cedex
+93059,Pierrefitte-sur-Seine,Pierrefitte-sur-Seine,93,Seine-Saint-Denis,3,48.9638251,2.3601991,http://www.mairie-pierrefitte93.fr,,2 place de la Libération,,93380,Pierrefitte-sur-Seine
+94054,Orly,Orly,94,Val-de-Marne,2,48.7434616089,2.40305089951,http://www.mairie-orly.fr,,1 place François-Mitterrand,,94310,Orly
+94068,Saint-Maur-des-Fossés,Saint-Maur-des-Fossés,94,Val-de-Marne,3,48.802974,2.485283,http://www.saint-maur.com,,Place Charles-de-Gaulle,,94100,Saint-Maur-des-Fossés
+95058,Bernes-sur-Oise,Bernes-sur-Oise,95,Val-d'Oise,3,49.1604003906,2.30096006393,http://www.bernes-sur-oise.fr,,Place de la Mairie,,95340,Bernes-sur-Oise
+95370,Marines,Marines,95,Val-d'Oise,2,49.145141,1.982606,http://www.marines.fr,,Place du Maréchal-Leclerc,,95640,Marines
+95582,Sannois,Sannois,95,Val-d'Oise,3,48.971554,2.256865,http://www.ville-sannois.fr,,Place du Général-Leclerc,BP 60088,95111,Sannois Cedex
