@@ -2,7 +2,7 @@ import json
 import itertools
 
 with open(
-    "communes-dile-de-france-labellisees-villes-et-villages-fleuris-2020 - Copy.json",
+    "communes-dile-de-france-labellisees-villes-et-villages-fleuris-2020.json",
     "rb",
 ) as f:
     data_fleurs = json.load(f, encoding="utf-8")
