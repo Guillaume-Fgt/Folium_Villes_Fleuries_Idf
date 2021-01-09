@@ -165,4 +165,4 @@ macro = MacroElement()
 macro._template = Template(template)
 
 m.get_root().add_child(macro)
-m.save("map.html")
+m.save("index.html")
